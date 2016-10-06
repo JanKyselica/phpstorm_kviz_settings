@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ab399ff0-2bea-4d13-9a0b-24aeef229c8d" name="server" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Downloads" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
