@@ -3,7 +3,7 @@
     <Redmine shared="false" url="http://redmine.lwi.cz">
       <option name="APIKey" value="" />
       <option name="assignedToMe" value="true" />
-      <commitMessageFormat>Resolves #{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>#{id}</commitMessageFormat>
       <option name="currentProject">
         <RedmineProject id="54" identifier="chytry-kviz" />
       </option>
