@@ -3,7 +3,7 @@
     <Redmine shared="false" url="http://redmine.lwi.cz">
       <option name="APIKey" value="" />
       <option name="assignedToMe" value="true" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>Resolves #{id} {summary}</commitMessageFormat>
       <option name="currentProject">
         <RedmineProject id="54" identifier="chytry-kviz" />
       </option>
@@ -11,7 +11,7 @@
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
       <username>JanKyselica</username>
