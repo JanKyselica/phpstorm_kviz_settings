@@ -1,14 +1,5 @@
 <application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="b6fa9914-e06c-41ed-b8e1-803a89794afb" name="deploy_kviz" url="http://localhost">
-        <fileTransfer host="medvidek.endora.cz" port="21" rootFolder="/hack">
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-    </option>
-  </component>
   <component name="webServersAuthStorage">
-    <data>AAAAoEoqFQFYMiN+bg77+RzOFu2GgZlcSzk2jLi+/UMZlRh+xsowQpisn1TYQAYEg7cRimzl1J5jqVCZiOJLnrzkAr6bzc7jT50d+GqMxQ8gyoR3eKsBXXtR7ohuCZTgHEnNwD55GA1oV9p+Wfd8w1LgUtm5psDpCoLalq/2RcdviVntXkIDENSN2M24QVV5aCNqCjFyCPXEaJWxfQpc7l3hKVXEbtRlEJ5UpqUMr/QjmSj0</data>
+    <data>AAAAoAyvXwXHJkgkLrJBMthJxl4G+r+uZCtcCC1rHjmWHIV9BtcLrhSpQWGHqbUPFzSd/sACSRtwiqhjq21ZPxNiCQZck8vD7gN/GeZf40wRS4yegMrirhG502Z43fN9UKhPTM6j70I5IcA95NH7DX12wVc0wCuF4NtMNvZrCKrXFeyAARq/T+BhEgmcFmJ25jVaqoFD1ZqT9cvf+EsP+xlwp2SIleBTTrW/ZM+tbboOiCR4</data>
   </component>
 </application>
