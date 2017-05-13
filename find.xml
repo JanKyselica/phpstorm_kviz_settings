@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Kviz] - .../app/Listeners/PaymentForModeration.php'" />
-    <option name="defaultScopeName" value="File '[Kviz] - .../app/Listeners/PaymentForModeration.php'" />
-    <option name="SEARCH_SCOPE" value="File '[Kviz] - .../app/Listeners/PaymentForModeration.php'" />
+    <option name="customScope" value="File '[Kviz] - .../app/Http/Controllers/Admin/TopicController.php'" />
+    <option name="defaultScopeName" value="File '[Kviz] - .../app/Http/Controllers/Admin/TopicController.php'" />
+    <option name="SEARCH_SCOPE" value="File '[Kviz] - .../app/Http/Controllers/Admin/TopicController.php'" />
   </component>
 </application>
