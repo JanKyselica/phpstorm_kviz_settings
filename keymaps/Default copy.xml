@@ -1,7 +1,43 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="AutoIndentLines" />
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SavaAs" />
   <action id="ShowSettings">
