@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Kviz] - .../app/Http/Controllers/Web/PartyQuizController.php'" />
-    <option name="defaultScopeName" value="File '[Kviz] - .../app/Http/Controllers/Web/PartyQuizController.php'" />
-    <option name="SEARCH_SCOPE" value="File '[Kviz] - .../app/Http/Controllers/Web/PartyQuizController.php'" />
+    <option name="customScope" value="src" />
+    <option name="defaultScopeName" value="src" />
+    <option name="SEARCH_SCOPE" value="src" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>
