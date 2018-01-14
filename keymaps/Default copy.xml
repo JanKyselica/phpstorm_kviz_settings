@@ -36,7 +36,7 @@
   <action id="Images.ShowThumbnails" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
   <action id="NextParameter">
     <keyboard-shortcut first-keystroke="enter" />
@@ -44,6 +44,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="QuickImplementations" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
