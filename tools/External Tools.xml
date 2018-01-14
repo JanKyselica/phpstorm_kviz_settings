@@ -2,7 +2,7 @@
   <tool name="phpcbf file" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/phpcbf" />
-      <option name="PARAMETERS" value="--standard=build/ruleset.xml --extensions=php --tab-width=4 $FileDir$/$FileName$" />
+      <option name="PARAMETERS" value="--standard=$ProjectFileDir$/build/ruleset.xml --extensions=php --tab-width=4 $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
