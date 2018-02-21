@@ -113,6 +113,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="View Breakpoints...">
+        <Item>
+          <IdeaActionID>ViewBreakpoints</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F8'</ShortCut>
+          <Description>View Breakpoints...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
     <option name="suppressed">
       <Statistic Action="Declaration">
@@ -127,6 +135,12 @@
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
           <Description>Event Log</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Mute Breakpoints">
+        <Item>
+          <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
+          <Description>Mute Breakpoints</Description>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
