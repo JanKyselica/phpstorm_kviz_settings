@@ -167,6 +167,14 @@
           <Count>26</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'http://local.motorado.sk/'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'http://local.motorado.sk/'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Start Listening for PHP Debug Connections">
         <Item>
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
@@ -185,6 +193,14 @@
         <Item>
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
           <Description>Stop Listening for PHP Debug Connections</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
