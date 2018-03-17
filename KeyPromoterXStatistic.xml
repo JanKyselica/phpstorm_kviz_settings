@@ -173,6 +173,12 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop Listening for PHP Debug Connections">
+        <Item>
+          <IdeaActionID>PhpListenDebugAction</IdeaActionID>
+          <Description>Stop Listening for PHP Debug Connections</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
