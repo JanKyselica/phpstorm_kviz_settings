@@ -131,6 +131,14 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Debug 'http://local.motorado.sk/'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'http://local.motorado.sk/'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
