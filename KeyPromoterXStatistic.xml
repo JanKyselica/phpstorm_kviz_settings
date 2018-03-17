@@ -159,6 +159,14 @@
           <Description>Mute Breakpoints</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'http://local.motorado.sk/'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'http://local.motorado.sk/'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Resume Program">
         <Item>
           <IdeaActionID>Resume</IdeaActionID>
