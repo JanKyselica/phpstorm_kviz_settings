@@ -251,6 +251,12 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Upload to wedos">
+        <Item>
+          <IdeaActionID>PublishGroup.Upload</IdeaActionID>
+          <Description>Upload to wedos</Description>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
