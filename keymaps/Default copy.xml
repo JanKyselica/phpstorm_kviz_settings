@@ -49,10 +49,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SavaAs" />
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="shift ctrl s" />
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
