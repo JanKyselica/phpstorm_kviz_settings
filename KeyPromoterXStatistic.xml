@@ -163,6 +163,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Directory">
+        <Item>
+          <IdeaActionID>NewDir</IdeaActionID>
+          <Description>Directory</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Event Log">
         <Item>
           <IdeaActionID>ActivateEventLogToolWindow</IdeaActionID>
@@ -173,6 +179,14 @@
         <Item>
           <IdeaActionID>XDebugger.MuteBreakpoints</IdeaActionID>
           <Description>Mute Breakpoints</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'http://local.motorado.sk/'">
