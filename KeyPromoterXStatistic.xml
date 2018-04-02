@@ -245,6 +245,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run Command...">
+        <Item>
+          <IdeaActionID>com.jetbrains.php.framework.FrameworkRunConsoleAction</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+X'</ShortCut>
+          <Description>Run Command...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Start Listening for PHP Debug Connections">
         <Item>
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
