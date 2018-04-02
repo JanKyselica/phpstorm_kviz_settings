@@ -259,6 +259,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'kviz_debug'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'kviz_debug'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'xdebug'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
