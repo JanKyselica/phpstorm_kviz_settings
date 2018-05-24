@@ -81,14 +81,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+2' or 'Ctrl+NumPad-2'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>12</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Update Project...">
         <Item>
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
@@ -175,6 +167,12 @@
         <Item>
           <IdeaActionID>NewDir</IdeaActionID>
           <Description>Directory</Description>
+        </Item>
+      </Statistic>
+      <Statistic Action="Docker">
+        <Item>
+          <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
+          <Description>Docker</Description>
         </Item>
       </Statistic>
       <Statistic Action="Event Log">
@@ -303,6 +301,14 @@
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+2' or 'Ctrl+NumPad-2'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
