@@ -1,12 +1,11 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings>
-      <MessDetectorConfiguration />
-    </phpmd_settings>
+    <phpmd_settings_migrated />
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="15000" tool_path="/mnt/DATA/Development/aptana_workspace/Kviz/vendor/bin/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/mnt/DATA/Development/aptana_workspace/Kviz/vendor/bin/phpcs" timeout="15000" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
