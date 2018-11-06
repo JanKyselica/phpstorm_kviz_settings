@@ -283,6 +283,12 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show log">
+        <Item>
+          <IdeaActionID>Docker.RemoteServers.ShowContainerLog</IdeaActionID>
+          <Description>Show log</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Start Listening for PHP Debug Connections">
         <Item>
           <IdeaActionID>PhpListenDebugAction</IdeaActionID>
