@@ -67,4 +67,7 @@
   <action id="Tool_External Tools_phpcbf file">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
+  <action id="Tool_External Tools_phpcs file">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
 </keymap>
