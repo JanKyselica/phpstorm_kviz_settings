@@ -203,6 +203,12 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Color Settings...">
+        <Item>
+          <IdeaActionID>DatabaseView.AssignColor</IdeaActionID>
+          <Description>Color Settings...</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Command Line Tools Console">
         <Item>
           <IdeaActionID>ActivateCommandLineToolsConsoleToolWindow</IdeaActionID>
