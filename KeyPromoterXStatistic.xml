@@ -105,6 +105,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ShowNavBar</IdeaActionID>
+          <ShortCut>'Alt+Home'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Next Page">
         <Item>
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
