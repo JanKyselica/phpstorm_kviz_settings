@@ -15,5 +15,6 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
