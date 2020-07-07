@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="packing" type="HTTP Request" />
       <mapping pattern="app" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="some" type="PLAIN_TEXT" />
